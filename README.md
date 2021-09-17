@@ -9,19 +9,19 @@ The trainning data consists of 5875 images among which 75% were taken for trainn
 
 
   
-![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/Model_summary.JPG)
+![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/Model%20Images/Model_summary.JPG)
 ## Model Performance
 After 250 apochs with batch size 100 model performed greatly on validation with 97% accuracy
 
-![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/Model_performance.JPG)
+![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/Model%20Images/Model_performance.JPG)
 
 ## Model loss
 
-![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/model_loss.png)
+![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/Model%20Images/model_loss.png)
  
  ## Model Accuracy
 
- ![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/model_accuracy.png)
+ ![App Screenshot](https://github.com/VAMSEE92/Hindi-Character-Classification-/blob/main/Model%20Images/model_accuracy.png)
  
 
 
